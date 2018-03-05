@@ -1,0 +1,1 @@
+select distinct(age) as age from people
