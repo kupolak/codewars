@@ -1,1 +1,1 @@
-select id, name, birthday, lower(race) as race from demographics
+select min(age) as age_min, max(age) as age_max from people
