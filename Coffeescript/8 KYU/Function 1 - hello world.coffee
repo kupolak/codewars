@@ -1,0 +1,2 @@
+greet = () ->
+  return "hello world!"
