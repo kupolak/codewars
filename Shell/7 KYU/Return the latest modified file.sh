@@ -1,0 +1,1 @@
+ls -tp | grep -v /$ | head -1
